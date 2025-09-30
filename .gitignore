@@ -1,0 +1,53 @@
+# ----------------------------
+# .NET / ASP.NET Core
+# ----------------------------
+bin/
+obj/
+[Ll]og/
+[Bb]uild[Ll]og.*
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+
+# ----------------------------
+# User-specific files
+# ----------------------------
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# ----------------------------
+# IDEs
+# ----------------------------
+.vs/
+.vscode/
+.idea/
+*.sln.iml
+*.cr/
+__pycache__/
+
+# ----------------------------
+# NuGet Packages
+# ----------------------------
+*.nupkg
+.nuget/
+nuget.exe
+
+# ----------------------------
+# Configuration
+# ----------------------------
+appsettings.Development.json
+appsettings.Local.json
+
+# ----------------------------
+# System files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Static Web Assets
+# ----------------------------
+wwwroot/
